@@ -1,0 +1,49 @@
+// Variable: color
+
+$color: (
+  "black": #000000,
+
+  "blue": (
+    "light": #bee1ff,
+    "default": #3079b9,
+    "dark": #044c89,
+  ),
+
+  "brand": (
+    "primary": #0f2538,
+    "secondary": #044c89,
+    "accent": #00aff0,
+    "accent-light": #d9effb,
+  ),
+
+  "gray": (
+    "lighter": #f5f7fa,
+    "light": #dcdee0,
+    "default": #adb5bb,
+    "dark": #6c7174,
+    "darker": #434a54,
+    "darkest": #24292e,
+  ),
+
+  "green": (
+    "light": #88d18a,
+    "default": #007314,
+    "dark": #005325,
+  ),
+
+  "red": (
+    "light": #f5c5c5,
+    "default": #df290e,
+    "dark": #901a09,
+  ),
+
+  "white": #ffffff,
+
+  "yellow": (
+    "light": #ffdaa1,
+    "default": #ffb544,
+    "dark": #6a3102,
+  ),
+);
+
+
